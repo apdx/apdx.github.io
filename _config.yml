@@ -2,6 +2,7 @@
 
 # jekyll-paginate configuration
 paginate:            5
+paginate_path:       "pages/:num/"
 
 # Build settings
 markdown:            kramdown
@@ -10,10 +11,14 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           ""
-description:	       ""
-author:              ""
+title:		           "A P D X"
+description:	       "appendix"
+author:              "AP"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
+
+# site specific settings
+hide_post_share:    true
+hide_related_posts: true

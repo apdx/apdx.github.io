@@ -1,0 +1,12 @@
+version: "3.7"
+
+services:
+  app:
+    container_name: apdx
+    image: jekyll/jekyll
+    command: sh -c "jekyll serve --watch --force_polling"
+    working_dir: /srv/jekyll
+    ports:
+      - 4000:4000
+    volumes:
+      - ./:/srv/jekyll
