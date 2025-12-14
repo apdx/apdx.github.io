@@ -1,7 +1,10 @@
 <article>
   <a href="{{ site.github.url }}/img/{{ post.image }}" class="glightbox">
-    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/img/thumbnails/{{ post.thumbnail }})"{% endif %}>
-    <h2><span>{{ post.title }}</span></h2>
+    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/img/thumbnails/{{ post.thumbnail }})" {% endif %}>
+      {% if post.title != "" %}
+      <h2 class="title"><span>{{ post.title }}</span></h2>
+      {% endif %}
+      <h2 class="date"><span>{{ post.date | date: "%d %b %Y" }}</span></h2>
     </div>
   </a>
 </article>
