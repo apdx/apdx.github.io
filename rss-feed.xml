@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>A P D X</title>
+		<description>appendix</description>
+		<link>https://apdx.github.io</link>
+		<atom:link href="https://apdx.github.io/rss-feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Alone in the Dark</title>
+				
+					<dc:creator>A P D X</dc:creator>
+				
+				
+					<description>
+</description>
+				
+				<pubDate>Sat, 13 Dec 2025 16:29:11 +0000</pubDate>
+				<link>https://apdx.github.io/ad1d4e26a75a57149cf3ff4491d4439d</link>
+				<guid isPermaLink="true">https://apdx.github.io/ad1d4e26a75a57149cf3ff4491d4439d</guid>
+			</item>
+		
+			<item>
+				<title></title>
+				
+					<dc:creator>A P D X</dc:creator>
+				
+				
+					<description>
+</description>
+				
+				<pubDate>Tue, 01 Jul 2025 20:20:11 +0000</pubDate>
+				<link>https://apdx.github.io/19eb2f1a340487bd537313febd40ddb2</link>
+				<guid isPermaLink="true">https://apdx.github.io/19eb2f1a340487bd537313febd40ddb2</guid>
+			</item>
+		
+			<item>
+				<title></title>
+				
+					<dc:creator>A P D X</dc:creator>
+				
+				
+					<description>
+</description>
+				
+				<pubDate>Sun, 27 Oct 2024 09:38:09 +0000</pubDate>
+				<link>https://apdx.github.io/14eb34a2f512c63a4da9e898fd90d68d</link>
+				<guid isPermaLink="true">https://apdx.github.io/14eb34a2f512c63a4da9e898fd90d68d</guid>
+			</item>
+		
+			<item>
+				<title></title>
+				
+					<dc:creator>A P D X</dc:creator>
+				
+				
+					<description>
+</description>
+				
+				<pubDate>Tue, 30 Jan 2024 16:42:23 +0000</pubDate>
+				<link>https://apdx.github.io/3609350636c3b5f9abdfc8a698ec6255</link>
+				<guid isPermaLink="true">https://apdx.github.io/3609350636c3b5f9abdfc8a698ec6255</guid>
+			</item>
+		
+			<item>
+				<title></title>
+				
+					<dc:creator>A P D X</dc:creator>
+				
+				
+					<description>
+</description>
+				
+				<pubDate>Tue, 23 Oct 2018 23:08:33 +0000</pubDate>
+				<link>https://apdx.github.io/c6dc48f8730a5db0e2d162492bbe0c65</link>
+				<guid isPermaLink="true">https://apdx.github.io/c6dc48f8730a5db0e2d162492bbe0c65</guid>
+			</item>
+		
+	</channel>
+</rss>
